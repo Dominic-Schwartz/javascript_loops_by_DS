@@ -157,8 +157,6 @@ const students = [
 // ]
 // ==========================================
 
-//
-
 const neighborhoodIndex = {
     "3512": "Binnenstad",
     "3513": "Pijlsweerd",
